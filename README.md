@@ -25,4 +25,4 @@ Inverte os caracteres de uma string sem usar funções prontas.
 1. Certifique-se de ter Python instalado em sua máquina.
 2. Navegue até a pasta desejada e execute o arquivo Python correspondente:
    ```bash
-   python nome_do_arquivo.py
+   python desafios-programação.py
